@@ -18,30 +18,30 @@ The system processes video streams from webcams, CCTV cameras, recorded videos, 
 
 This project is suitable for:
 
-* Smart Surveillance Systems
-* Traffic Monitoring
-* Security Applications
-* Smart Cities
-* Retail Analytics
-* Industrial Automation
-* Robotics
-* Educational and Research Purposes
+- Smart Surveillance Systems
+- Traffic Monitoring
+- Security Applications
+- Smart Cities
+- Retail Analytics
+- Industrial Automation
+- Robotics
+- Educational and Research Purposes
 
 ---
 
 ## Features
 
-* Real-time object detection
-* Multi-object tracking
-* YOLO-based detection engine
-* Support for webcam and CCTV feeds
-* Confidence score visualization
-* Bounding box rendering
-* FPS (Frames Per Second) monitoring
-* GPU acceleration support
-* Cross-platform compatibility
-* Easy deployment and customization
-* Open-source and extensible architecture
+- Real-time object detection
+- Multi-object tracking
+- YOLO-based detection engine
+- Support for webcam and CCTV feeds
+- Confidence score visualization
+- Bounding box rendering
+- FPS (Frames Per Second) monitoring
+- GPU acceleration support
+- Cross-platform compatibility
+- Easy deployment and customization
+- Open-source and extensible architecture
 
 ---
 
@@ -170,21 +170,21 @@ Bicycle     87%
 
 The system can detect more than 80 object categories, including:
 
-* Person
-* Car
-* Bus
-* Truck
-* Motorcycle
-* Bicycle
-* Dog
-* Cat
-* Bird
-* Chair
-* Laptop
-* Mobile Phone
-* Bottle
-* Traffic Light
-* Stop Sign
+- Person
+- Car
+- Bus
+- Truck
+- Motorcycle
+- Bicycle
+- Dog
+- Cat
+- Bird
+- Chair
+- Laptop
+- Mobile Phone
+- Bottle
+- Traffic Light
+- Stop Sign
 
 ---
 
@@ -203,15 +203,15 @@ The system can detect more than 80 object categories, including:
 
 ## Future Improvements
 
-* Face Recognition Module
-* License Plate Recognition
-* Crowd Density Analysis
-* Heatmap Generation
-* Gesture Recognition
-* Vehicle Counting
-* Person Re-Identification
-* Edge Device Deployment
-* Cloud Dashboard Integration
+- Face Recognition Module
+- License Plate Recognition
+- Crowd Density Analysis
+- Heatmap Generation
+- Gesture Recognition
+- Vehicle Counting
+- Person Re-Identification
+- Edge Device Deployment
+- Cloud Dashboard Integration
 
 ---
 
@@ -219,27 +219,27 @@ The system can detect more than 80 object categories, including:
 
 ### Security Surveillance
 
-* Intruder detection
-* Restricted area monitoring
-* Smart alerts
+- Intruder detection
+- Restricted area monitoring
+- Smart alerts
 
 ### Traffic Management
 
-* Vehicle counting
-* Traffic analytics
-* Accident detection
+- Vehicle counting
+- Traffic analytics
+- Accident detection
 
 ### Retail Analytics
 
-* Customer movement tracking
-* Footfall analysis
-* Queue monitoring
+- Customer movement tracking
+- Footfall analysis
+- Queue monitoring
 
 ### Industrial Automation
 
-* Safety monitoring
-* Equipment tracking
-* Automated inspection
+- Safety monitoring
+- Equipment tracking
+- Automated inspection
 
 ---
 
@@ -274,29 +274,29 @@ of this software and associated documentation files.
 
 ### Sandhib K
 
-* BE Computer Science and Engineering
-* AI & Machine Learning Enthusiast
-* Open Source Contributor
-* Founder & CEO, Techquasar Dynamics
+- BE Computer Science and Engineering
+- AI & Machine Learning Enthusiast
+- Open Source Contributor
+- Founder & CEO, Techquasar Dynamics
 
 ---
 
 ## Contact
 
-* Email: [your-email@example.com](mailto:your-email@example.com)
-* LinkedIn: https://linkedin.com/in/your-profile
-* GitHub: https://github.com/yourusername
+- Email: [your-email@example.com](mailto:your-email@example.com)
+- LinkedIn: https://linkedin.com/in/your-profile
+- GitHub: https://github.com/yourusername
 
 ---
 
-## Acknowledgements
+## Acknowledgments
 
 Special thanks to:
 
-* YOLO Community
-* OpenCV Community
-* PyTorch Team
-* Open Source Contributors
+- YOLO Community
+- OpenCV Community
+- PyTorch Team
+- Open Source Contributors
 
 ---
 
